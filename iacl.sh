@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/ban 
 
 echo "Criando Diretorios"
 
